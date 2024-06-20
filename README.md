@@ -10,5 +10,3 @@ Czym się zajmuje:
 Jeżeli masz jakiś problem pisz śmiało
 Discord: lysy0216
 --> [Server Discord](https://discord.gg/NHyw227A45)
-
-![Visitor Count](https://github.com/LysyFivem/lh_automess)
