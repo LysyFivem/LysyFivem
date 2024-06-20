@@ -1,5 +1,4 @@
-## Cześć wszsytkim 👋
-
+## Cześć wszystkim 👋
 
 Jestem **LysyFivem** na moim profilu znajdziesz skrypty na swój server fivem.
 
@@ -12,3 +11,4 @@ Jeżeli masz jakiś problem pisz śmiało
 Discord: lysy0216
 --> [Server Discord](https://discord.gg/NHyw227A45)
 
+![Visitor Count](https://github.com/LysyFivem/lh_automess)
